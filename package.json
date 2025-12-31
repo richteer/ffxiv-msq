@@ -16,7 +16,7 @@
     "react-helmet": "^6.0.0",
     "react-keyboard-event-handler": "^1.5.4",
     "react-native-segmented-progress-bar": "^1.0.7",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-step-progress-bar": "^1.0.3",
     "react-sticky": "^6.0.3",
     "react-stickynode": "^3.0.2"
